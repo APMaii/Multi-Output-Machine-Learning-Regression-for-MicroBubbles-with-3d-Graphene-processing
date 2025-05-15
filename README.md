@@ -1,6 +1,9 @@
 # Multi-Output Machine Learning Regression for MicroBubbles with 3D Graphene Processing
 
-This project applies **multi-output machine learning regression** to analyze the behavior of **microbubbles** processed with **3D graphene structures**. The goal is to predict multiple physical properties of microbubbles under various experimental and fabrication conditions using traditional regression models.
+This project applies **multi-output machine learning regression** to analyze the behavior of **microbubbles** processed with **3D graphene structures**. The goal is to predict multiple physical properties of microbubbles under various experimental and fabrication conditions using traditional regression models and compare with Multi-Target Regression Stacking (MTRS) Machine Learning .
+
+
+
 
 ---
 
