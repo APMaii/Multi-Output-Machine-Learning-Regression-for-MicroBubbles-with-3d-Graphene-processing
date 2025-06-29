@@ -4,7 +4,6 @@ PARALELL_NOTCROSS_MICROBUBBLE
 
 This is hyperparameters 
 """
-
 #=============================================================================
 '                              Import                                        '
 #=============================================================================
@@ -86,7 +85,6 @@ load_data()
 #============================================================================
 '                             Select_model                           '
 #============================================================================
-
 def refit_strategy(cv_results):
     cv_results_ = pd.DataFrame(cv_results)
     fastest_top_recall_high_precision_index = cv_results_[
