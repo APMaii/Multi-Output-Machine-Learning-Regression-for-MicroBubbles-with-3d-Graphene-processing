@@ -11,11 +11,9 @@
 9-F_3_D_for_myself
 10-F_3_D_for_hypercomputer
 
-
 1--> from zero
 2----> without def
 3--->
-
 
 6--final 3 section is best
 DEscription:
