@@ -86,8 +86,7 @@ def load_data():
                            ,data2['Unnamed: 13']],axis=1).T
     scaler=MinMaxScaler()
     scaler.fit(data2_foam)
-    data2_foam_scaled=scaler.transform(data2_foam)
-    
+    data2_foam_scaled=scaler.transform(data2_foam) 
     #====================================DATA3===================================
     file3_location = 'C:\\Users\\sunhouse\\.spyder-py3\\codha\\projects\\exel\\finalcsv.csv'
     f3=open(file3_location,'r')
