@@ -2,7 +2,6 @@
 """
 PARALELL_NOTCROSS_MICROBUBBLE
 """
-
 #=============================================================================
 '                              Import                                        '
 #=============================================================================
@@ -3004,10 +3003,4 @@ ax.tick_params(axis='both',which='both',direction='in',bottom=True,top=False,lef
 plt.ylim(0,1000)
 plt.legend()
 plt.show()
-
-
-
-
-
-
 
