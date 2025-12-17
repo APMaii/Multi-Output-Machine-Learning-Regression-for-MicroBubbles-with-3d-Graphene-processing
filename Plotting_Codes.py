@@ -894,10 +894,6 @@ def normal_vol(pp,ii):
     plt.savefig(name,dpi=600,format='pdf')
     plt.show()
 
-    
-    
-
-
 
 normal_vol(0,0)   
 normal_vol(4,1)
@@ -906,5 +902,3 @@ normal_vol(16,3)
 normal_vol(24,4)
 normal_vol(32,5)
 normal_vol(40,6)    
-
-
