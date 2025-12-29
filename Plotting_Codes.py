@@ -3,8 +3,6 @@ Created on Wed Oct  4 14:22:48 2023
 last edit = OCT -6 
 
 
-
-
 @author: Ali Pilehvar Meibody
 
 Description: The final figer genertor because we are close to submission
