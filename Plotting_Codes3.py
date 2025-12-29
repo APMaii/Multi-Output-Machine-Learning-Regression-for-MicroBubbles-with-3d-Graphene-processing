@@ -14,7 +14,6 @@ we must adjust ind and col we have 3 figure
 then among all of that the we choose the best model and then we insert that in
 the FINAL_8JUNE model and in PLOT_PREDICTION def
 
-
 '''
 
 
