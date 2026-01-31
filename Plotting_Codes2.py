@@ -9,8 +9,6 @@ Description: The final figer genertor because we are close to submission
 
 it is from 13june-rasme avalie / final_plot_9june / idk plot / asli
 
-
-
 plan: kari ndre 
 aval baayd format taeen beshe
 bad miaymo havasemon b too bodane thick ha va dp 600 va format bashe fght
